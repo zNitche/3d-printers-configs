@@ -6,6 +6,7 @@ collection of various configs for various 3D printers
 - CURA
     - Creality
         - Ender 3 Pro
+        - K1
 
 - Prusa Slicer
     - Creality
